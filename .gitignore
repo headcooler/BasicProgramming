@@ -5,8 +5,8 @@
 # --- Unreal build products ---
 Binaries/
 DerivedDataCache/
-Intermediate/
-Saved/
+Intermediate/ 
+#Saved/ #필요에 따라
 
 # UBT/Packaging artifacts
 *.target
@@ -38,8 +38,6 @@ Saved/
 #####################################################################
 
 # Visual Studio / MSBuild generated solution/project files (usually regenerated)
-*.sln
-*.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
 *.VC.db
