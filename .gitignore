@@ -38,7 +38,7 @@ Intermediate/
 #####################################################################
 
 # Visual Studio / MSBuild generated solution/project files (usually regenerated)
-*.vcxproj.filters
+#*.vcxproj.filters #필요에따라
 *.vcxproj.user
 *.VC.db
 *.VC.opendb
